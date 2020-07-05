@@ -134,8 +134,8 @@ New employee training planning, business efficiency, new business planning, indu
 ## Award
 
 - Rubber-ball baseball 2016 National Championship runner-up / 2016 National Athletic Conference runner-up
-- [High School Entrepreneurship Contest NES](https://www.facebook.com/ next.entrepreneur.summit/) Second place
-- [National Conference for the Future of High School Students](https://www.facebook.com/ revisionjapan/) Grand Prize
+- [High School Entrepreneurship Contest NES](https://www.facebook.com/next.entrepreneur.summit/) Second place
+- [National Conference for the Future of High School Students](https://www.facebook.com/revisionjapan/) Grand Prize
 
 ## Qualification
 
