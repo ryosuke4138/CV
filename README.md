@@ -92,43 +92,43 @@ Docker | nginx | Apache | Tomcat | Gulp | Webpack | SASS | Latex | Linux | Algor
 
 ### Waseda University
 
-Computer Science and Engineering
-Tokyo, Japan
-2018.3 - 2022.9
+Computer Science and Engineering  
+Tokyo, Japan  
+2018.3 - 2022.9  
 Studying a wide range of math and computer science.
 
 ### University of Canterbury
 
 Computer Engineering (Exchange Student)
-Canterbury, New Zealand
-2020.2 - 2020.7
+Canterbury, New Zealand  
+2020.2 - 2020.7  
 Studied [Software Engineering Group Project](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG302&occurrence=20W(C)&year=2020)(Group project: https://csse-s302g3.canterbury.ac.nz/prod/), [Web Computing Architectures](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG365&occurrence=20S1(C)&year=2020), [Big Data Computing](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=DATA301&occurrence=20S1(C)&year=2020), etc.
 
 ## Work Experience
 
 ### [NN Life Insurance Company, Ltd.](https://www.nnlife.co.jp)
 
-2019.6 - 2020.1 Part-time
-Tokyo, Japan
+2019.6 - 2020.1 Part-time  
+Tokyo, Japan  
 We analyzed data on small and medium-sized enterprises across the country. We used various statistical models and machine learning models to extract useful information from big data.
 
 ### [Pluszero Ltd.](https://plus-zero.co.jp/)
 
-2019.4 - 2020.1 Part-time
-Tokyo, Japan
-I had developed a proof-reading engine using enormous machine learning models such as BERT. I also worked as a PM in a small-scale paper survey.
+2019.4 - 2020.1 Part-time  
+Tokyo, Japan  
+I had developed a proof-reading engine using an enormous machine learning models such as BERT. I also worked as a PM in a small-scale paper survey.
 
 ### [Aidemy Ltd.](https://aidemy.co.jp/)
 
-2017.7 - 2017.8 Part-time
-Tokyo, Japan
+2017.7 - 2017.8 Part-time  
+Tokyo, Japan  
 Programming tutor, content creation and business efficiency
 
 ### [Hongo Tsuji Tax & Accounting Co.,Ltd.](https://www.ht-tax.or.jp/)
 
-2017.7 - 2017.8 Full-time(high school summer vacation) 
-Tokyo, Japan
-Management Planning Office
+2017.7 - 2017.8 Full-time(high school summer vacation)  
+Tokyo, Japan  
+Management Planning Office  
 New employee training planning, business efficiency, new business planning, industry research
 
 ## Award
