@@ -104,7 +104,7 @@ Computer Engineering (交換留学生)
 2020.2 - 2022.7
 [Software Engineering Group Project](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG302&occurrence=20W(C)&year=2020)(Group project: https://csse-s302g3.canterbury.ac.nz/prod/), [Web Computing Architectures](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=SENG365&occurrence=20S1(C)&year=2020), [Big Data Computing](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=DATA301&occurrence=20S1(C)&year=2020)などを勉強しました。
 
-## Work Experience
+## 業務履歴
 
 ### [エヌエヌ生命保険 株式会社](https://www.nnlife.co.jp)
 
@@ -131,13 +131,13 @@ Computer Engineering (交換留学生)
 
 【担当業務】新人研修企画、業務効率化、新規事業企画、業界リサーチ
 
-## Award
+## 賞
 
 - 軟式野球部 2016全国大会準優勝 / 2016国民体育大会準優勝
 - [高校生起業家コンテストNES](https://www.facebook.com/next.entrepreneur.summit/) 準優勝
 - [全国高校生未来会議](https://www.facebook.com/revisionjapan/) 最優秀賞
 
-## Qualification
+## 資格/講座
 
 - 日商簿記検定 2級  
   高校在学中に取得しました。
