@@ -106,6 +106,12 @@ Studied [Software Engineering Group Project](https://www.canterbury.ac.nz/course
 
 ## Work Experience
 
+### [CUSTOMLIFE Corporation](https://customlife-media.jp/)
+
+2020.7 - current, Part-time
+Tokyo, Japan  
+I am participating in the launch of a new business.
+
 ### [NN Life Insurance Company, Ltd.](https://www.nnlife.co.jp)
 
 2019.6 - 2020.1 Part-time  
@@ -114,19 +120,19 @@ We analyzed data on small and medium-sized enterprises across the country. We us
 
 ### [Pluszero Ltd.](https://plus-zero.co.jp/)
 
-2019.4 - 2020.1 Part-time  
+2019.4 - current, Part-time  
 Tokyo, Japan  
 I had developed a proof-reading engine using an enormous machine learning models such as BERT. I also worked as a PM in a small-scale paper survey.
 
 ### [Aidemy Ltd.](https://aidemy.co.jp/)
 
-2017.7 - 2017.8 Part-time  
+2017.7 - 2017.8, Part-time  
 Tokyo, Japan  
 Programming tutor, content creation and business efficiency
 
 ### [Hongo Tsuji Tax & Accounting Co.,Ltd.](https://www.ht-tax.or.jp/)
 
-2017.7 - 2017.8 Full-time(high school summer vacation)  
+2017.7 - 2017.8, Full-time(high school summer vacation)  
 Tokyo, Japan  
 Management Planning Office  
 New employee training planning, business efficiency, new business planning, industry research
