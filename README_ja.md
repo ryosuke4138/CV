@@ -5,6 +5,7 @@
   Hi! I'm Ryosuke Okamae.
 </H2>
 <p align="center">早稲田大学 情報理工学科</p>
+<p align="center">Entrepreneur</p>
 <p align="center">Full Stack Web developer and ML engineer</p>
 
 <p align="center">
@@ -36,13 +37,6 @@
 
 初めまして！早稲田大学情報理工学科の岡前亮介です。プログラミング，話すこと，旅行，漫才を見ること，将棋を指すことが大好きです。これまで，経営企画に関するインターンシップをフルタイムで2ヶ月，機械学習やデータ分析に関するインターンシップをパートタイムで合計2年間行いました。業務委託で仕事の依頼を受け付けています。お問い合わせはFacebook(Messanger)またはInstagramのDM等からお気軽にどうぞ！
 
-## 発揮できる価値
-
-- アジャイル開発
-- フロントエンド/バックエンド開発
-- コンテナ化(Docker化)
-- 単体テストや統合テストの導入
-- 機械学習/深層学習のリサーチや実装
 
 ## 学歴
 
@@ -94,7 +88,28 @@ Computer Engineering (交換留学生)
 
 【担当業務】新人研修企画、業務効率化、新規事業企画、業界リサーチ
 
-## スキル
+## 賞
+
+- 軟式野球部 2016全国大会準優勝 / 2016国民体育大会準優勝
+- [高校生起業家コンテストNES](https://www.facebook.com/next.entrepreneur.summit/) 準優勝
+- [全国高校生未来会議](https://www.facebook.com/revisionjapan/) 最優秀賞
+
+## 資格/講座
+
+- 日商簿記検定 2級  
+  高校在学中に取得しました。
+- [東京大学松尾研究室・Deep Learning for NLP 講座](https://deeplearning.jp/deep-learning-for-nlp/) 修了  
+  VANやSeqGANなどの最新論文を理解し，一から実装しました。
+
+## エンジニアスキル
+
+## 発揮できる価値
+
+- アジャイル開発
+- フロントエンド/バックエンド開発
+- コンテナ化(Docker化)
+- 単体テストや統合テストの導入
+- 機械学習/深層学習のリサーチや実装
 
 ### プログラミング言語
 
@@ -139,15 +154,3 @@ Docker | nginx | Apache | Tomcat | Gulp | Webpack | SASS | Latex | Linux | Algor
 - プロジェクトマネージメント
 - D2C
 
-## 賞
-
-- 軟式野球部 2016全国大会準優勝 / 2016国民体育大会準優勝
-- [高校生起業家コンテストNES](https://www.facebook.com/next.entrepreneur.summit/) 準優勝
-- [全国高校生未来会議](https://www.facebook.com/revisionjapan/) 最優秀賞
-
-## 資格/講座
-
-- 日商簿記検定 2級  
-  高校在学中に取得しました。
-- [東京大学松尾研究室・Deep Learning for NLP 講座](https://deeplearning.jp/deep-learning-for-nlp/) 修了  
-  VANやSeqGANなどの最新論文を理解し，一から実装しました。
