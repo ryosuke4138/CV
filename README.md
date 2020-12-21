@@ -126,7 +126,7 @@ I had developed a proof-reading engine using an enormous machine learning models
 
 ### [Aidemy Ltd.](https://aidemy.co.jp/)
 
-2017.7 - 2017.8, Part-time  
+2017.5 - 2018.10, Part-time 
 Tokyo, Japan  
 Programming tutor, content creation and business efficiency
 
